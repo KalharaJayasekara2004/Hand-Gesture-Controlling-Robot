@@ -35,8 +35,8 @@ This is a gesture-controlled robot project using ESP32 and MPU6050 IMU, with a g
 4. Connect hardware.
 5. Power the ESP32 boards and test gestures.
 
-## Author
-- Kalhara Jayasekara
+## Authors
+- Kalhara Jayasekara , Emal Deemantha
 - Electrical and Electronic Engineering Undergraduate | University of Peradeniya
 
 
